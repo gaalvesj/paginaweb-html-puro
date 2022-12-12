@@ -1,0 +1,17 @@
+body {
+    background-color: #f5f5f5;
+    font-family: monospace;
+}
+
+input {
+    box-shadow: 1px 1px grey;
+}
+
+button {
+    box-shadow: 1px 1px grey;
+    cursor: pointer
+}
+
+.form-select {
+    box-shadow: 1px 1px grey;
+}

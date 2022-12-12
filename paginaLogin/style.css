@@ -35,3 +35,9 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+button {
+  box-shadow: 1px 1px grey;
+  cursor: pointer
+}
+
